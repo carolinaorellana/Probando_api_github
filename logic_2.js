@@ -26,6 +26,7 @@ form.addEventListener ('submit', function(e){
 }
 )
 
+//CODIGO DEL ANTERIOR
 // function fetch_github_usuario() {
 //     fetch("https://api.github.com/users/adion81")
 //     .then(response => response.json() )
